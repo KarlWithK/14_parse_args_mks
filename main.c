@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#define SIZE 5
+#define SIZE 6
 
 char *args[SIZE];
 
